@@ -1,4 +1,4 @@
 # bptf
-Issue tracker for bptf
+Issue tracker for bptf.
 
 Hi there.
